@@ -1,7 +1,7 @@
 # E-Commerce Store EDA
 
 ## Description
-This repository contains a complete **Exploratory Data Analysis (EDA)** of an e-commerce store dataset. The analysis aims to uncover meaningful insights into customer behavior, sales trends, and product performance. Using Python's popular data analysis and visualization libraries, this project demonstrates a systematic approach to exploring and understanding e-commerce data.
+This repository contains a complete **Exploratory Data Analysis (EDA)** of an E-commerce store dataset. The analysis aims to uncover meaningful insights into customer behavior, sales trends, and product performance. Using Python's popular data analysis and visualization libraries, this project demonstrates a systematic approach to exploring and understanding e-commerce data.
 
 ---
 
